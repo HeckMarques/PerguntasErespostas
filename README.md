@@ -1,7 +1,7 @@
 # PRINCIPAIS TECNOLOGIAS E LIBS
 	Servidor Node.js com Express
-  Banco de dados mysql com ORM sequelize
-  Front end HTML com view engine EJS e Bootstrap 4
+  	Banco de dados mysql com ORM sequelize
+ 	Front end HTML com view engine EJS e Bootstrap 4
 
 # Rodar projeto
 	Certifique-se de ter instalado na máquina o Node.js e o mysql
