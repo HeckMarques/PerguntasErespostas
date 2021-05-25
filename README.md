@@ -10,7 +10,7 @@
         ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'sua_senha_mysql'
     * Clone o projeto: git clone https://github.com/HeckMarques/PerguntasErespostas.git
     * Configure a conexão com o banco de dados mysql em /database/database.js
-		* Instale as depenciais do projeto: npm install
+		* Instale as dependencias do projeto: npm install
 		* Rode o projeto: node index.js
     * Dica: instale o nodemon: npm install nodemon -g
     * Rode o projeto com o nodemon (obtenha atualização automatica da aplicação ao alterar os arquivos): nodemon index.js
